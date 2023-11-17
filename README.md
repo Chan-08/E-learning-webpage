@@ -1,5 +1,3 @@
-# E-learning-webpage
-model of e learning webpage
 # E-Learning Website
 
 Welcome to the E-Learning Website! This project provides a simple and clean interface for an online learning platform. Below, you'll find a brief overview of the project structure and functionality.
